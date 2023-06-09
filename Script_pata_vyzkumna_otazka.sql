@@ -1,3 +1,4 @@
+-- Discord: Lenka P.
 -- Pata vyzkumna otazka
 SELECT 
 	summary.year_price_prev AS prev_year,
