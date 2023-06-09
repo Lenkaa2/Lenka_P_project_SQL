@@ -1,3 +1,4 @@
+-- Discord: Lenka P.
 -- Treti vyzkumna otazka
 SELECT 
 	price_prev.name,
