@@ -1,5 +1,5 @@
 # Lenka_P_project_SQL
-Průvodní listina
+Průvodní listina (Discord: Lenka P.)
 
 1.	Popis datových sad
 
