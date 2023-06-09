@@ -1,3 +1,4 @@
+-- Discord: Lenka P.
 -- Prvni vyzkumna otazka
 SELECT 
 	prev_year.name,
