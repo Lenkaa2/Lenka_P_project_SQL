@@ -1,3 +1,4 @@
+-- Discord: Lenka P.
 -- Sekundarni tabulka
 CREATE TABLE t_lenka_pazourova_project_SQL_secondary_final
 SELECT 
