@@ -1,3 +1,4 @@
+-- Discord: Lenka P.
 -- Primarni tabulka
 CREATE TABLE t_Lenka_Pazourova_project_SQL_primary_final
 SELECT 
