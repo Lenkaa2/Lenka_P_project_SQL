@@ -1,3 +1,4 @@
+-- Discord: Lenka P.
 -- Ctvrta vyzkumna otazka
 SELECT 
 	summary.*,
