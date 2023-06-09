@@ -1,3 +1,4 @@
+Discord: Lenka P.
 -- Druha vyzkumna otazka
 SELECT 
 	price.name,
